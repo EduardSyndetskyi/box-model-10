@@ -1,0 +1,53 @@
+ body {
+     
+     margin: 0px;
+}
+
+ .container {
+     
+     margin:0 auto;
+     max-width: 700px;
+     padding: 15px;
+
+ }
+
+ a {
+    
+     transition: all .3s ease-in;
+     
+ }
+ 
+ a:hover,
+ a:focus,
+ a:active {
+     
+ }
+
+ .mydiv {
+
+    border: 10px solid green;
+    width: 25%;
+    padding: 30px;
+    display: inline-block;
+    /* box-sizing: border-box; */
+    font-size: 16px;
+    vertical-align: middle;
+
+ }
+
+ .myspan {
+
+    border: 2px solid orange;
+    width: 300px;
+    /* padding: 30px; */
+    margin: 30px;
+    display: inline-block;
+
+ }
+
+ .parent {
+
+    font-size: 0;
+ } 
+
+ 
